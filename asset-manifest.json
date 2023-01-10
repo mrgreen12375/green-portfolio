@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.05ce7cb3.css",
+    "main.js": "/static/js/main.ebe99f0c.js",
+    "static/media/infinite-disc.png": "/static/media/infinite-disc.d115b22e68d282909a78.png",
+    "static/media/drink.png": "/static/media/drink.1f3ab9a1305fcb1bb6e9.png",
+    "static/media/header.png": "/static/media/header.b8b07b9cbaf37e2ca0bc.png",
+    "static/media/e-commerce.jpg": "/static/media/e-commerce.a648799f63bb1b82d429.jpg",
+    "static/media/social-network-api.jpg": "/static/media/social-network-api.b8d5f341f9080b3f67a3.jpg",
+    "static/media/weather-dashboard.png": "/static/media/weather-dashboard.cf0cd8b8571f9a06f87a.png",
+    "static/media/work-day-scheduler.png": "/static/media/work-day-scheduler.09b43609525d667129b8.png",
+    "static/media/employee-tracker.jpg": "/static/media/employee-tracker.197955067bc37184d5a6.jpg",
+    "static/media/regex.jpg": "/static/media/regex.ca57283f343b0a32be4f.jpg",
+    "static/media/black.png": "/static/media/black.3c24e163b18d8b498713.png",
+    "static/media/the-tech-blog.png": "/static/media/the-tech-blog.6f4b3be4e7b7b9c80c09.png",
+    "static/media/team-profile-generator.png": "/static/media/team-profile-generator.fe2adbd948c772ccf7b7.png",
+    "static/media/note-taker.png": "/static/media/note-taker.645fb1396cd0440d408a.png",
+    "static/media/jate.png": "/static/media/jate.0f0e0aa2d104e5b7c130.png",
+    "static/media/avatar.jpg": "/static/media/avatar.d9af1d25a84bed869fb0.jpg",
+    "static/media/coding-quiz.png": "/static/media/coding-quiz.d8e87aca21ad5d317a39.png",
+    "static/media/coming-soon.png": "/static/media/coming-soon.f6a9f18e91fb05712961.png",
+    "static/media/password-generator.png": "/static/media/password-generator.aa25cbf89939def02f6b.png",
+    "static/media/readme-generator.jpg": "/static/media/readme-generator.5ae1656d8939e2ad0508.jpg",
+    "static/media/email.jpg": "/static/media/email.902c794ae80939b5e861.jpg",
+    "static/media/phone.jpg": "/static/media/phone.6a1c6886c4e9117032b6.jpg",
+    "static/media/resume.docx": "/static/media/resume.0e18c4b19ab437040742.docx",
+    "index.html": "/index.html",
+    "main.05ce7cb3.css.map": "/static/css/main.05ce7cb3.css.map",
+    "main.ebe99f0c.js.map": "/static/js/main.ebe99f0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05ce7cb3.css",
+    "static/js/main.ebe99f0c.js"
+  ]
+}
