@@ -70,7 +70,7 @@ function Portfolio() {
                     </div>
                 </div>
             </a>
-            <a href="https://github.com/mrgreen12375/green-notes" target="_blank">
+            <a href="https://github.com/mrgreen12375/green-team-generator" target="_blank">
                 <div className="card9">
                     <div className="cardTitle">
                         <h3>Team Profile Generator<i className="fa fa-github"></i></h3>
