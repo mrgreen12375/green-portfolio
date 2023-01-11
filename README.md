@@ -25,10 +25,13 @@ Resume
 ![alt resume demo](./src/assets/images/resume-mockup.png)
 ## Installation
 
+
 ## Usage
 npm install
 
-npm start
+npm run deploy - (deploy github)
+
+npm start - (deploy local host)
 
 ## Contributing
 Steven Green
