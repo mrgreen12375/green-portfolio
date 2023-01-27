@@ -6,11 +6,19 @@ function Portfolio() {
 	<main>
         <h2>Portfolio</h2>
         <div className="projects">
+        <a href="https://github.com/mrgreen12375/appoint-me" target="_blank">
+                <div className="cardAppointMe">
+                    <div className="cardTitle">
+                        <h3>AppointMe!<i className="fa fa-github"></i></h3>
+                        <p>MERN Stack</p>
+                    </div>
+                </div>
+            </a>
             <a href="https://github.com/mrgreen12375/green-text-editor-pwa" target="_blank">
                 <div className="card1">
                     <div className="cardTitle">
                         <h3>JATE<i className="fa fa-github"></i></h3>
-                        <p>Just Another Text Editor</p>
+                        <p>Progressive Web Application</p>
                     </div>
                 </div>
             </a>

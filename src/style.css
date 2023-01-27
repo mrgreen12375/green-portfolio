@@ -121,6 +121,25 @@ p {
     background-size: cover;
 }
 
+.cardAppointMe {
+    height: 300px;
+    width: 300px;
+    border: 3px solid white;
+    margin-bottom: 30px;
+    background-image: url("./assets/projects/appoint-me.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.cardAppointMe:hover {
+    height: 300px;
+    width: 300px;
+    border: 3px solid white;
+    margin-bottom: 30px;
+    background-image: url("./assets/projects/black.png");
+    background-size: cover;
+}
+
 .card1 {
     height: 300px;
     width: 300px;
