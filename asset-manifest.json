@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/green-portfolio/static/css/main.acdcb633.css",
-    "main.js": "/green-portfolio/static/js/main.342d2d0e.js",
+    "main.css": "/green-portfolio/static/css/main.cf452bd9.css",
+    "main.js": "/green-portfolio/static/js/main.7c017605.js",
     "static/media/infinite-disc.png": "/green-portfolio/static/media/infinite-disc.d115b22e68d282909a78.png",
     "static/media/drink.png": "/green-portfolio/static/media/drink.1f3ab9a1305fcb1bb6e9.png",
+    "static/media/appoint-me.png": "/green-portfolio/static/media/appoint-me.0245d6bca099bc21c487.png",
     "static/media/header.png": "/green-portfolio/static/media/header.b8b07b9cbaf37e2ca0bc.png",
     "static/media/e-commerce.jpg": "/green-portfolio/static/media/e-commerce.a648799f63bb1b82d429.jpg",
     "static/media/social-network-api.jpg": "/green-portfolio/static/media/social-network-api.b8d5f341f9080b3f67a3.jpg",
@@ -25,11 +26,11 @@
     "static/media/phone.jpg": "/green-portfolio/static/media/phone.6a1c6886c4e9117032b6.jpg",
     "static/media/resume.docx": "/green-portfolio/static/media/resume.0e18c4b19ab437040742.docx",
     "index.html": "/green-portfolio/index.html",
-    "main.acdcb633.css.map": "/green-portfolio/static/css/main.acdcb633.css.map",
-    "main.342d2d0e.js.map": "/green-portfolio/static/js/main.342d2d0e.js.map"
+    "main.cf452bd9.css.map": "/green-portfolio/static/css/main.cf452bd9.css.map",
+    "main.7c017605.js.map": "/green-portfolio/static/js/main.7c017605.js.map"
   },
   "entrypoints": [
-    "static/css/main.acdcb633.css",
-    "static/js/main.342d2d0e.js"
+    "static/css/main.cf452bd9.css",
+    "static/js/main.7c017605.js"
   ]
 }
