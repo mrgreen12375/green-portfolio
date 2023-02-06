@@ -58,7 +58,7 @@ function Portfolio() {
                 <div className="card6">
                     <div className="cardTitle">
                         <h3>E-Commerce<i className="fa fa-github"></i></h3>
-                        <p>MySQL and Sequlize Demo</p>
+                        <p>MySQL and Sequelize Demo</p>
                     </div>
                 </div>
             </a>
