@@ -636,8 +636,13 @@ footer {
 	}
 
 	h1 {
-        font-size: 35px;
+        font-size: 40px;
+        padding-left: 0px;
 	}
+
+    nav ul {
+        padding-left: 0px;
+    }
 
 	.link {
 		font-size: 15px;
