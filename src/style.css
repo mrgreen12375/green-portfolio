@@ -615,7 +615,7 @@ footer {
 	}
 
     .userInput {
-        padding-right: 300px;
+        padding-right: 200px;
     }
 
     textarea {
@@ -623,7 +623,7 @@ footer {
 	}
 
     .messageInput {
-        padding-right: 300px;
+        padding-right: 200px;
     }
 }
 
