@@ -432,12 +432,12 @@ p {
 }
 
 .userInput {
-    padding: 5px 400px 5px 5px;
+    padding: 5px 5px 5px 5px;
     margin: 10px 0px 10px 0px;
 }
 
 .messageInput {
-    padding: 5px 400px 180px 5px;
+    padding: 5px 5px 180px 5px;
     margin: 10px 0px 10px 0px;
 }
 
@@ -606,26 +606,6 @@ footer {
 		font-size: 20px;
 	}
 
-    form {
-        width: 0%;
-        margin-left: -100px;
-	}
-
-    input {
-        width: 0px;
-	}
-
-    .userInput {
-        padding-right: 200px;
-    }
-
-    textarea {
-        width: 0px;
-	}
-
-    .messageInput {
-        padding-right: 200px;
-    }
 }
 
 @media screen and (max-width: 500px) {
