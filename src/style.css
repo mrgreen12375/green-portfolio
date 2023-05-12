@@ -645,6 +645,11 @@ footer {
         margin-top: 70px;
     }
 
+    .about {
+        margin: 30px -30px 0px -30px;
+        font-size: 15px;
+    }
+
     form div {
         display: flex;
         flex-direction: column;
@@ -652,11 +657,11 @@ footer {
     }
 
     .userInput {
-        width: 400px;
+        width: 300px;
     }
 
     .messageInput {
-        width: 400px;
+        width: 300px;
     }
 
     .resumeMargin {

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/green-portfolio/static/css/main.e374e2d6.css",
-    "main.js": "/green-portfolio/static/js/main.478c36a0.js",
+    "main.css": "/green-portfolio/static/css/main.b7aead01.css",
+    "main.js": "/green-portfolio/static/js/main.2fbaab5a.js",
     "static/media/infinite-disc.png": "/green-portfolio/static/media/infinite-disc.d115b22e68d282909a78.png",
     "static/media/drink.png": "/green-portfolio/static/media/drink.1f3ab9a1305fcb1bb6e9.png",
     "static/media/appoint-me.png": "/green-portfolio/static/media/appoint-me.0245d6bca099bc21c487.png",
@@ -26,11 +26,11 @@
     "static/media/email.jpg": "/green-portfolio/static/media/email.902c794ae80939b5e861.jpg",
     "static/media/phone.jpg": "/green-portfolio/static/media/phone.6a1c6886c4e9117032b6.jpg",
     "index.html": "/green-portfolio/index.html",
-    "main.e374e2d6.css.map": "/green-portfolio/static/css/main.e374e2d6.css.map",
-    "main.478c36a0.js.map": "/green-portfolio/static/js/main.478c36a0.js.map"
+    "main.b7aead01.css.map": "/green-portfolio/static/css/main.b7aead01.css.map",
+    "main.2fbaab5a.js.map": "/green-portfolio/static/js/main.2fbaab5a.js.map"
   },
   "entrypoints": [
-    "static/css/main.e374e2d6.css",
-    "static/js/main.478c36a0.js"
+    "static/css/main.b7aead01.css",
+    "static/js/main.2fbaab5a.js"
   ]
 }
