@@ -606,6 +606,14 @@ footer {
 		font-size: 20px;
 	}
 
+    .userInput {
+        width: 400px;
+    }
+
+    .messageInput {
+        width: 400px;
+    }
+
 }
 
 @media screen and (max-width: 500px) {
@@ -635,6 +643,20 @@ footer {
         flex-direction: column;
         align-items: center;
         margin-top: 70px;
+    }
+
+    form div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .userInput {
+        width: 400px;
+    }
+
+    .messageInput {
+        width: 400px;
     }
 
     .resumeMargin {
