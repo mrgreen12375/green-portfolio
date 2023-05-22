@@ -94,7 +94,7 @@ function Portfolio() {
                     </div>
                 </div>
             </a>
-            <a href="https://github.com/mrgreen12375/drink" target="_blank">
+            <a href="https://github.com/mrgreen12375/drink2.0" target="_blank">
                 <div className="card11">
                     <div className="cardTitle">
                         <h3>DRINK<i className="fa fa-github"></i></h3>
