@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/green-portfolio/static/css/main.970469ce.css",
+    "main.css": "/green-portfolio/static/css/main.d905f8dc.css",
     "main.js": "/green-portfolio/static/js/main.845ee8b5.js",
     "static/media/infinite-disc.png": "/green-portfolio/static/media/infinite-disc.d115b22e68d282909a78.png",
     "static/media/drink.png": "/green-portfolio/static/media/drink.f85d49c42e1bdaca52bd.png",
@@ -10,7 +10,7 @@
     "static/media/e-commerce.jpg": "/green-portfolio/static/media/e-commerce.a648799f63bb1b82d429.jpg",
     "static/media/the-tech-blog.png": "/green-portfolio/static/media/the-tech-blog.afacc7ff89e7e4273177.png",
     "static/media/social-network-api.jpg": "/green-portfolio/static/media/social-network-api.b8d5f341f9080b3f67a3.jpg",
-    "static/media/weather-dashboard.png": "/green-portfolio/static/media/weather-dashboard.cf0cd8b8571f9a06f87a.png",
+    "static/media/weather-dashboard.png": "/green-portfolio/static/media/weather-dashboard.bdeb1597fe042e88e01f.png",
     "static/media/work-day-scheduler.png": "/green-portfolio/static/media/work-day-scheduler.09b43609525d667129b8.png",
     "static/media/employee-tracker.jpg": "/green-portfolio/static/media/employee-tracker.197955067bc37184d5a6.jpg",
     "static/media/regex.jpg": "/green-portfolio/static/media/regex.ca57283f343b0a32be4f.jpg",
@@ -26,11 +26,11 @@
     "static/media/email.jpg": "/green-portfolio/static/media/email.902c794ae80939b5e861.jpg",
     "static/media/phone.jpg": "/green-portfolio/static/media/phone.6a1c6886c4e9117032b6.jpg",
     "index.html": "/green-portfolio/index.html",
-    "main.970469ce.css.map": "/green-portfolio/static/css/main.970469ce.css.map",
+    "main.d905f8dc.css.map": "/green-portfolio/static/css/main.d905f8dc.css.map",
     "main.845ee8b5.js.map": "/green-portfolio/static/js/main.845ee8b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.970469ce.css",
+    "static/css/main.d905f8dc.css",
     "static/js/main.845ee8b5.js"
   ]
 }
