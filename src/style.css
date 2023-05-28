@@ -222,7 +222,7 @@ p {
     margin-bottom: 30px;
     background-image: url("./assets/projects/the-tech-blog.png");
     background-size: cover;
-    background-position: 5%;
+    background-position: 50%;
 }
 
 .card5:hover {
