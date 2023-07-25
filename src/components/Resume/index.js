@@ -4,7 +4,7 @@ function Resume() {
 	return (
 	<main>
         <h2>Resume</h2>
-        <p className="resumeMargin">Download my <a className="resume" href={require("../../assets/resume/Steven Green.pdf")} download>resume</a></p>
+        <p className="resumeMargin">Download my <a className="resume" href={require("../../assets/resume/Steven Green.pdf")} download>resumè</a></p>
         <div className="proficiencies">
             <h3>Front-End Proficiencies</h3>
             <ul>

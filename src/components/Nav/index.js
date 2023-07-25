@@ -7,7 +7,7 @@ function Nav(props) {
 		<nav>
 			<ul>
 				<li className={currentTab === "about" ? "link active" : "link"}>
-					<span onClick={() => setCurrentTab("about")}>About Me</span>
+					<span onClick={() => setCurrentTab("about")}>About</span>
 				</li>
 				<li className={currentTab === "portfolio" ? "link active" : "link"}>
 					<span onClick={() => setCurrentTab("portfolio")}>Portfolio</span>
@@ -16,7 +16,7 @@ function Nav(props) {
 					<span onClick={() => setCurrentTab("contact")}>Contact</span>
 				</li>
 				<li className={currentTab === "resume" ? "link active" : "link"}>
-					<span onClick={() => setCurrentTab("resume")}>Resume</span>
+					<span onClick={() => setCurrentTab("resume")}>Resumè</span>
 				</li>
 			</ul>
 		</nav>
