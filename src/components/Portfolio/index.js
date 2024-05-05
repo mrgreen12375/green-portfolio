@@ -60,25 +60,11 @@ const projectData = [
       info: 'MERN Stack',
     },
     {
-      img: jate,
-      title: 'J.A.T.E',
-      app: 'https://green-text-editor-pwa.herokuapp.com/',
-      repo: 'https://github.com/mrgreen12375/green-text-editor-pwa',
-      info: 'Progressive Web Application',
-    },
-    {
       img: social,
       title: 'Social Network API',
       app: 'https://drive.google.com/file/d/1IMxe3VFSFfbu1wcxsSiY_v4-pvEV5Mck/view',
       repo: 'https://github.com/mrgreen12375/green-social-network-api',
       info: 'MongoDB and Mongoose Demo',
-    },
-    {
-      img: regex,
-      title: 'Regex Tutorial',
-      app: 'https://gist.github.com/mrgreen12375',
-      repo: 'https://github.com/mrgreen12375/green-regex',
-      info: 'URL Regex Gist',
     },
     {
       img: infinite,
@@ -178,6 +164,20 @@ const projectData = [
       repo: 'https://github.com/mrgreen12375/green-passwords',
       info: 'Create Randomized Password',
     }, 
+    {
+      img: jate,
+      title: 'J.A.T.E',
+      app: 'https://green-text-editor-pwa.herokuapp.com/',
+      repo: 'https://github.com/mrgreen12375/green-text-editor-pwa',
+      info: 'Progressive Web Application',
+    },
+    {
+      img: regex,
+      title: 'Regex Tutorial',
+      app: 'https://gist.github.com/mrgreen12375',
+      repo: 'https://github.com/mrgreen12375/green-regex',
+      info: 'URL Regex Gist',
+    },
     {
       img: soon,
       title: 'Comming Soon',
