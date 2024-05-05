@@ -78,8 +78,18 @@ p {
 }
 
 .cardTitle {
+    opacity: 0;
     text-align: center;
-    padding: 40px 20px 20px 20px;
+    padding: 20px;
+    height: 100%;
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.cardTitle:hover {
+    opacity: 1;
+    background-image: url("./assets/projects/black.png");
+    background-size: cover;
 }
 
 .cardTitle h3 {
@@ -87,338 +97,46 @@ p {
     font-family: 'Courier New', Courier, monospace;
 }
 
-.cardTitle i {
-    padding-left: 10px;
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: -20px;
 }
 
-.projects a {
-    color: transparent;
-    text-decoration: none;
+.row p {
+    font-size: 15px;
 }
 
-.projects a:hover {
+.app {
+    display: block;
+    line-height: 60px;
+    font-size: 40px;
+    margin-bottom: -20px;
+}
+
+.app:hover {
+    font-size: 50px;
+}
+
+.repo {
+    display: block;
+    line-height: 60px;
+    font-size: 40px;
+    margin-bottom: -20px;
+}
+
+.fa {
+    position: relative;
+    top: 5px;
+}
+
+.repo:hover {
+    font-size: 50px;
+}
+
+.cardTitle a:visited {
     color: white;
-}
-
-.projects a:visited {
-    color: white;
-}
-
-.cardX {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/coming-soon.png");
-    background-size: cover;
-    background-position: center;
-}
-
-.cardX:hover {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/black.png");
-    background-size: cover;
-}
-
-.cardAppointMe {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/appoint-me.png");
-    background-size: cover;
-    background-position: center;
-}
-
-.cardAppointMe:hover {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/black.png");
-    background-size: cover;
-}
-
-.card1 {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/jate.png");
-    background-size: cover;
-}
-
-.card1:hover {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/black.png");
-    background-size: cover;
-}
-
-.card2 {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/social-network-api.jpg");
-    background-size: cover;
-}
-
-.card2:hover {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/black.png");
-    background-size: cover;
-}
-
-.card3 {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/regex.jpg");
-    background-size: cover;
-}
-
-.card3:hover {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/black.png");
-    background-size: cover;
-}
-
-.card4 {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/infinite-disc.png");
-    background-size: cover;
-    background-position: center;
-}
-
-.card4:hover {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/black.png");
-    background-size: cover;
-}
-
-.card5 {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/the-tech-blog.png");
-    background-size: cover;
-    background-position: 50%;
-}
-
-.card5:hover {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/black.png");
-    background-size: cover;
-}
-
-.card6 {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/e-commerce.jpg");
-    background-size: cover;
-}
-
-.card6:hover {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/black.png");
-    background-size: cover;
-}
-
-.card7 {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/employee-tracker.jpg");
-    background-size: cover;
-}
-
-.card7:hover {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/black.png");
-    background-size: cover;
-}
-
-.card8 {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/note-taker.png");
-    background-size: cover;
-    background-position: center;
-}
-
-.card8:hover {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/black.png");
-    background-size: cover;
-}
-
-.card9 {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/team-profile-generator.png");
-    background-size: cover;
-    background-position: center;
-}
-
-.card9:hover {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/black.png");
-    background-size: cover;
-}
-
-.card10 {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/readme-generator.jpg");
-    background-size: contain;
-}
-
-.card10:hover {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/black.png");
-    background-size: cover;
-}
-
-.card11 {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/drink.png");
-    background-size: cover;
-    background-position: center;
-}
-
-.card11:hover {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/black.png");
-    background-size: cover;
-}
-
-.card12 {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/weather-dashboard.png");
-    background-size: cover;
-    background-position: center;
-}
-
-.card12:hover {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/black.png");
-    background-size: cover;
-}
-
-.card13 {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/work-day-scheduler.png");
-    background-size: cover;
-    background-position: center;
-}
-
-.card13:hover {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/black.png");
-    background-size: cover;
-}
-
-.card14 {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/coding-quiz.png");
-    background-size: cover;
-    background-position: center;
-}
-
-.card14:hover {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/black.png");
-    background-size: cover;
-}
-
-.card15 {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/password-generator.png");
-    background-size: cover;
-    background-position: center;
-}
-
-.card15:hover {
-    height: 300px;
-    width: 300px;
-    border: 3px solid white;
-    margin-bottom: 30px;
-    background-image: url("./assets/projects/black.png");
-    background-size: cover;
 }
 
 .form {
