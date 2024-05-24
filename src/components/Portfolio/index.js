@@ -14,6 +14,7 @@ import readme from '../../assets/projects/readme-generator.jpg';
 import drink from '../../assets/projects/drink.png';
 import flags from '../../assets/projects/flags-r-us.png';
 import weather from '../../assets/projects/weather-dashboard.png';
+import books from '../../assets/projects/book-search.png';
 import workday from '../../assets/projects/work-day-scheduler.png';
 import quiz from '../../assets/projects/coding-quiz.png';
 import password from '../../assets/projects/password-generator.png';
@@ -98,9 +99,16 @@ const projectData = [
       img: weather,
       title: 'Weather Dashboard',
       app: 'https://mrgreen12375.github.io/green-weather/',
-      repo: 'https://github.com/mrgreen12375/green-weather',
+      repo: 'https://github.com/mrgreen12375/green-book-search',
       info: 'Server Side API',
-    }, 
+    },
+    {
+      img: books,
+      title: 'Book Search',
+      app: 'https://green-book-search-e5c6bffb2cdb.herokuapp.com/',
+      repo: 'https://github.com/mrgreen12375/green-weather',
+      info: 'MERN Stack',
+    },
     {
       img: social,
       title: 'Social Network API',
