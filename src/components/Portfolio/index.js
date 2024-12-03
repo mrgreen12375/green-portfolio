@@ -4,6 +4,7 @@ import jate from '../../assets/projects/jate.png';
 import social from '../../assets/projects/social-network-api.jpg';
 import regex from '../../assets/projects/regex.jpg';
 import infinite from '../../assets/projects/infinite-disc.png';
+import inventions from '../../assets/projects/ideal-inventions.png';
 import tech from '../../assets/projects/the-tech-blog.png';
 import random from '../../assets/projects/the-random-blog.png';
 import eCommerce from '../../assets/projects/e-commerce.jpg';
@@ -73,6 +74,13 @@ const projectData = [
       app: 'https://infinite-disc.herokuapp.com/',
       repo: 'https://github.com/mrgreen12375/infinite-disc',
       info: 'Record Store Invantory',
+    },
+    {
+      img: inventions,
+      title: 'Ideal Inventions',
+      app: 'https://ideal-inventions-bfdeb806078f.herokuapp.com/',
+      repo: 'https://github.com/mrgreen12375/ideal-inventions',
+      info: 'E-Commerce MERN Stack',
     },
     {
       img: tech,
