@@ -19,6 +19,7 @@ import books from '../../assets/projects/book-search.png';
 import workday from '../../assets/projects/work-day-scheduler.png';
 import quiz from '../../assets/projects/coding-quiz.png';
 import password from '../../assets/projects/password-generator.png';
+import rps from '../../assets/projects/rock-paper-scissors.png';
 import soon from '../../assets/projects/coming-soon.png';
 
 
@@ -109,6 +110,13 @@ const projectData = [
       app: 'https://mrgreen12375.github.io/green-weather/',
       repo: 'https://github.com/mrgreen12375/green-book-search',
       info: 'Server Side API',
+    },
+    {
+      img: rps,
+      title: 'Rock Paper Scissors',
+      app: 'https://mrgreen12375.github.io/rock-paper-scissors/',
+      repo: 'https://github.com/mrgreen12375/rock-paper-scissors',
+      info: 'Game',
     },
     {
       img: books,
