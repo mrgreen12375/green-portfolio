@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/green-portfolio/static/css/main.21040b11.css",
-    "main.js": "/green-portfolio/static/js/main.0c97d8eb.js",
+    "main.js": "/green-portfolio/static/js/main.6eccdf8b.js",
     "static/media/book-search.png": "/green-portfolio/static/media/book-search.0201c4072e0930db41f5.png",
+    "static/media/rock-paper-scissors.png": "/green-portfolio/static/media/rock-paper-scissors.4f1307872552b89b944f.png",
     "static/media/ideal-inventions.png": "/green-portfolio/static/media/ideal-inventions.e829cb6af31f4aafad30.png",
     "static/media/appoint-me.png": "/green-portfolio/static/media/appoint-me.0245d6bca099bc21c487.png",
     "static/media/drink.png": "/green-portfolio/static/media/drink.7cdce894643b91225ed5.png",
@@ -32,10 +33,10 @@
     "static/media/phone.jpg": "/green-portfolio/static/media/phone.6a1c6886c4e9117032b6.jpg",
     "index.html": "/green-portfolio/index.html",
     "main.21040b11.css.map": "/green-portfolio/static/css/main.21040b11.css.map",
-    "main.0c97d8eb.js.map": "/green-portfolio/static/js/main.0c97d8eb.js.map"
+    "main.6eccdf8b.js.map": "/green-portfolio/static/js/main.6eccdf8b.js.map"
   },
   "entrypoints": [
     "static/css/main.21040b11.css",
-    "static/js/main.0c97d8eb.js"
+    "static/js/main.6eccdf8b.js"
   ]
 }
