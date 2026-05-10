@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/green-portfolio/static/css/main.21040b11.css",
-    "main.js": "/green-portfolio/static/js/main.cb5ecfad.js",
+    "main.js": "/green-portfolio/static/js/main.0a43f8c3.js",
     "static/media/book-search.png": "/green-portfolio/static/media/book-search.0201c4072e0930db41f5.png",
     "static/media/rock-paper-scissors.png": "/green-portfolio/static/media/rock-paper-scissors.4f1307872552b89b944f.png",
     "static/media/ideal-inventions.png": "/green-portfolio/static/media/ideal-inventions.e829cb6af31f4aafad30.png",
@@ -15,6 +15,7 @@
     "static/media/the-tech-blog.png": "/green-portfolio/static/media/the-tech-blog.afacc7ff89e7e4273177.png",
     "static/media/social-network-api.jpg": "/green-portfolio/static/media/social-network-api.b8d5f341f9080b3f67a3.jpg",
     "static/media/weather-dashboard.png": "/green-portfolio/static/media/weather-dashboard.892154a5b9cbb12653db.png",
+    "static/media/techman.png": "/green-portfolio/static/media/techman.3aafce89c67342b2805f.png",
     "static/media/work-day-scheduler.png": "/green-portfolio/static/media/work-day-scheduler.09b43609525d667129b8.png",
     "static/media/employee-tracker.jpg": "/green-portfolio/static/media/employee-tracker.197955067bc37184d5a6.jpg",
     "static/media/regex.jpg": "/green-portfolio/static/media/regex.ca57283f343b0a32be4f.jpg",
@@ -33,10 +34,10 @@
     "static/media/phone.jpg": "/green-portfolio/static/media/phone.6a1c6886c4e9117032b6.jpg",
     "index.html": "/green-portfolio/index.html",
     "main.21040b11.css.map": "/green-portfolio/static/css/main.21040b11.css.map",
-    "main.cb5ecfad.js.map": "/green-portfolio/static/js/main.cb5ecfad.js.map"
+    "main.0a43f8c3.js.map": "/green-portfolio/static/js/main.0a43f8c3.js.map"
   },
   "entrypoints": [
     "static/css/main.21040b11.css",
-    "static/js/main.cb5ecfad.js"
+    "static/js/main.0a43f8c3.js"
   ]
 }

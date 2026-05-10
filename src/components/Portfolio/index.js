@@ -20,6 +20,7 @@ import workday from '../../assets/projects/work-day-scheduler.png';
 import quiz from '../../assets/projects/coding-quiz.png';
 import password from '../../assets/projects/password-generator.png';
 import rps from '../../assets/projects/rock-paper-scissors.png';
+import techman from '../../assets/projects/techman.png';
 import soon from '../../assets/projects/coming-soon.png';
 
 
@@ -117,6 +118,13 @@ const projectData = [
       app: 'https://mrgreen12375.github.io/rock-paper-scissors/',
       repo: 'https://github.com/mrgreen12375/rock-paper-scissors',
       info: 'Game',
+    },
+    {
+      img: techman,
+      title: 'Techman',
+      app: 'https://mrgreen12375.github.io/techman/',
+      repo: 'https://github.com/mrgreen12375/techman',
+      info: 'Hangman Game',
     },
     {
       img: books,
