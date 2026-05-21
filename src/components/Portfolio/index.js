@@ -109,7 +109,7 @@ const projectData = [
       img: weather,
       title: 'Weather Dashboard',
       app: 'https://mrgreen12375.github.io/green-weather/',
-      repo: 'https://github.com/mrgreen12375/green-book-search',
+      repo: 'https://github.com/mrgreen12375/green-weather',
       info: 'Server Side API',
     },
     {
@@ -130,7 +130,7 @@ const projectData = [
       img: books,
       title: 'Book Search',
       app: 'https://green-book-search-e5c6bffb2cdb.herokuapp.com/',
-      repo: 'https://github.com/mrgreen12375/green-weather',
+      repo: 'https://github.com/mrgreen12375/green-book-search',
       info: 'MERN Stack',
     },
     {
