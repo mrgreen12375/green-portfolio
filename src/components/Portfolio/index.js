@@ -21,6 +21,7 @@ import quiz from '../../assets/projects/coding-quiz.png';
 import password from '../../assets/projects/password-generator.png';
 import rps from '../../assets/projects/rock-paper-scissors.png';
 import techman from '../../assets/projects/techman.png';
+import theList from '../../assets/projects/the-list.png';
 import soon from '../../assets/projects/coming-soon.png';
 
 
@@ -125,6 +126,13 @@ const projectData = [
       app: 'https://mrgreen12375.github.io/techman/',
       repo: 'https://github.com/mrgreen12375/techman',
       info: 'Hangman Game',
+    },
+    {
+      img: theList,
+      title: 'The List',
+      app: 'https://the-list-app-e387d9af3685.herokuapp.com/',
+      repo: 'https://github.com/mrgreen12375/the-list',
+      info: 'Grocery List App',
     },
     {
       img: books,
