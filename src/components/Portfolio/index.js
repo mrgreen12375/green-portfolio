@@ -89,7 +89,7 @@ const projectData = [
     title: "Infinite Disc",
     app: "https://infinite-disc.herokuapp.com/",
     repo: "https://github.com/mrgreen12375/infinite-disc",
-    info: "Record Store Invantory",
+    info: "Record Store Inventory",
   },
   {
     img: inventions,
