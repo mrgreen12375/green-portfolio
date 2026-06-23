@@ -122,7 +122,7 @@ const projectData = [
   {
     img: flags,
     title: 'Flags "R" Us',
-    app: "https://mrgreen12375.github.io/flags-r-us/",
+    app: "https://flags-r-us-68fdf514bb5b.herokuapp.com/",
     repo: "https://github.com/mrgreen12375/flags-r-us",
     info: "Search Flags by Country",
   },
